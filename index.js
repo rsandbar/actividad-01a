@@ -1,8 +1,9 @@
 class claseA
 {
-    constructor(foobar)
+    constructor(foobar, lorem)
     {
         this.foobar = foobar;
+        this.lorem = lorem;
     }
 }
 
