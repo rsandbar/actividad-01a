@@ -5,3 +5,11 @@ class claseA
         this.foobar = foobar;
     }
 }
+
+class claseB
+{
+    constructor(nombre)
+    {
+        this.nombre = nombre;
+    }
+}
