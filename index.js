@@ -13,3 +13,11 @@ class claseB
         this.nombre = nombre;
     }
 }
+
+class claseC
+{
+    constructor(email)
+    {
+        this.email = email;
+    }
+}
